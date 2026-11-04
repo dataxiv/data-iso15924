@@ -1,0 +1,227 @@
+N°	Code	English Name	Nom français	Alias	Age	Date
+015	Pcun	Proto-Cuneiform	proto-cunéiforme			2021-01-25
+016	Pelm	Proto-Elamite	proto-élamite			2021-01-25
+020	Xsux	Cuneiform, Sumero-Akkadian	cunéiforme suméro-akkadien	Cuneiform	5.0	2006-10-10
+030	Xpeo	Old Persian	cunéiforme persépolitain	Old_Persian	4.1	2006-06-21
+040	Ugar	Ugaritic	ougaritique	Ugaritic	4.0	2004-05-01
+050	Egyp	Egyptian hieroglyphs	hiéroglyphes égyptiens	Egyptian_Hieroglyphs	5.2	2009-06-01
+060	Egyh	Egyptian hieratic	hiératique égyptien		5.2	2004-05-01
+070	Egyd	Egyptian demotic	démotique égyptien			2004-05-01
+080	Hluw	Anatolian Hieroglyphs (Luwian Hieroglyphs, Hittite Hieroglyphs)	hiéroglyphes anatoliens (hiéroglyphes louvites, hiéroglyphes hittites)	Anatolian_Hieroglyphs	8.0	2015-07-07
+085	Nkdb	Naxi Dongba (na²¹ɕi³³ to³³ba²¹, Nakhi Tomba)	naxi dongba			2017-07-26
+090	Maya	Mayan hieroglyphs	hiéroglyphes mayas			2004-05-01
+095	Sgnw	SignWriting	SignÉcriture, SignWriting	SignWriting	8.0	2015-07-07
+100	Mero	Meroitic Hieroglyphs	hiéroglyphes méroïtiques	Meroitic_Hieroglyphs	6.1	2012-02-06
+101	Merc	Meroitic Cursive	cursif méroïtique	Meroitic_Cursive	6.1	2012-02-06
+103	Psin	Proto-Sinaitic	proto-sinaïtique			2021-01-25
+105	Sarb	Old South Arabian	sud-arabique, himyarite	Old_South_Arabian	5.2	2009-06-01
+106	Narb	Old North Arabian (Ancient North Arabian)	nord-arabique	Old_North_Arabian	7.0	2014-11-15
+109	Chrs	Chorasmian	chorasmien	Chorasmian	13.0	2019-08-19
+115	Phnx	Phoenician	phénicien	Phoenician	5.0	2006-10-10
+116	Lydi	Lydian	lydien	Lydian	5.1	2007-07-02
+120	Tfng	Tifinagh (Berber)	tifinagh (berbère)	Tifinagh	4.1	2006-06-21
+123	Samr	Samaritan	samaritain	Samaritan	5.2	2009-06-01
+124	Armi	Imperial Aramaic	araméen impérial	Imperial_Aramaic	5.2	2009-06-01
+125	Hebr	Hebrew	hébreu	Hebrew	1.1	2004-05-01
+126	Palm	Palmyrene	palmyrénien	Palmyrene	7.0	2014-11-15
+127	Hatr	Hatran	hatrénien	Hatran	8.0	2015-07-07
+128	Elym	Elymaic	élymaïque	Elymaic	12.0	2018-08-26
+130	Prti	Inscriptional Parthian	parthe des inscriptions	Inscriptional_Parthian	5.2	2009-06-01
+131	Phli	Inscriptional Pahlavi	pehlevi des inscriptions	Inscriptional_Pahlavi	5.2	2009-06-01
+132	Phlp	Psalter Pahlavi	pehlevi des psautiers	Psalter_Pahlavi	7.0	2014-11-15
+133	Phlv	Book Pahlavi	pehlevi des livres			2007-07-15
+134	Avst	Avestan	avestique	Avestan	5.2	2009-06-01
+135	Syrc	Syriac	syriaque	Syriac	3.0	2004-05-01
+136	Syrn	Syriac (Eastern variant)	syriaque (variante orientale)		3.0	2004-05-01
+137	Syrj	Syriac (Western variant)	syriaque (variante occidentale)		3.0	2004-05-01
+138	Syre	Syriac (Estrangelo variant)	syriaque (variante estranghélo)		3.0	2004-05-01
+139	Mani	Manichaean	manichéen	Manichaean	7.0	2014-11-15
+140	Mand	Mandaic, Mandaean	mandéen	Mandaic	6.0	2010-07-23
+141	Sogd	Sogdian	sogdien	Sogdian	11.0	2017-11-21
+142	Sogo	Old Sogdian	ancien sogdien	Old_Sogdian	11.0	2017-11-21
+143	Ougr	Old Uyghur	ancien ouïgour	Old_Uyghur	14.0	2021-01-25
+145	Mong	Mongolian	mongol	Mongolian	3.0	2004-05-01
+159	Nbat	Nabataean	nabatéen	Nabataean	7.0	2014-11-15
+160	Arab	Arabic	arabe	Arabic	1.1	2004-05-01
+161	Aran	Arabic (Nastaliq variant)	arabe (variante nastalique)		1.1	2014-11-15
+164	Gara	Garay	garay	Garay	16.0	2023-09-12
+165	Nkoo	N’Ko	n’ko	Nko	5.0	2006-10-10
+166	Adlm	Adlam	adlam	Adlam	9.0	2016-12-05
+167	Rohg	Hanifi Rohingya	hanifi rohingya	Hanifi_Rohingya	11.0	2017-11-21
+170	Thaa	Thaana	thâna	Thaana	3.0	2004-05-01
+175	Orkh	Old Turkic, Orkhon Runic	orkhon	Old_Turkic	5.2	2009-06-01
+176	Hung	Old Hungarian (Hungarian Runic)	runes hongroises (ancien hongrois)	Old_Hungarian	8.0	2015-07-07
+180	Sidt	Sidetic	sidétique			2023-09-12
+192	Yezi	Yezidi	yézidi	Yezidi	13.0	2019-08-19
+200	Grek	Greek	grec	Greek	1.1	2004-05-01
+201	Cari	Carian	carien	Carian	5.1	2007-07-02
+202	Lyci	Lycian	lycien	Lycian	5.1	2007-07-02
+204	Copt	Coptic	copte	Coptic	4.1	2006-06-21
+206	Goth	Gothic	gotique	Gothic	3.1	2004-05-01
+210	Ital	Old Italic (Etruscan, Oscan, etc.)	ancien italique (étrusque, osque, etc.)	Old_Italic	3.1	2004-05-29
+211	Runr	Runic	runique	Runic	3.0	2004-05-01
+212	Ogam	Ogham	ogam	Ogham	3.0	2004-05-01
+215	Latn	Latin	latin	Latin	1.1	2004-05-01
+216	Latg	Latin (Gaelic variant)	latin (variante gaélique)		1.1	2004-05-01
+217	Latf	Latin (Fraktur variant)	latin (variante brisée)		1.1	2004-05-01
+218	Moon	Moon (Moon code, Moon script, Moon type)	écriture Moon			2006-12-11
+219	Osge	Osage	osage	Osage	9.0	2016-12-05
+220	Cyrl	Cyrillic	cyrillique	Cyrillic	1.1	2004-05-01
+221	Cyrs	Cyrillic (Old Church Slavonic variant)	cyrillique (variante slavonne)		1.1	2004-05-01
+225	Glag	Glagolitic	glagolitique	Glagolitic	4.1	2006-06-21
+226	Elba	Elbasan	elbasan	Elbasan	7.0	2014-11-15
+227	Perm	Old Permic	ancien permien	Old_Permic	7.0	2014-11-15
+228	Vith	Vithkuqi	vithkuqi	Vithkuqi	14.0	2021-02-17
+229	Todr	Todhri	todhri	Todhri	16.0	2023-09-12
+230	Armn	Armenian	arménien	Armenian	1.1	2004-05-01
+239	Aghb	Caucasian Albanian	aghbanien	Caucasian_Albanian	7.0	2014-11-15
+240	Geor	Georgian (Mkhedruli and Mtavruli)	géorgien (mkhédrouli et mtavrouli)	Georgian	1.1	2016-12-05
+241	Geok	Khutsuri (Asomtavruli and Nuskhuri)	khoutsouri (assomtavrouli et nouskhouri)	Georgian	1.1	2012-10-16
+250	Dsrt	Deseret (Mormon)	déseret (mormon)	Deseret	3.1	2004-05-01
+258	Berf	Beria Erfe	beria erfe			2025-01-06
+259	Bass	Bassa Vah	bassa	Bassa_Vah	7.0	2014-11-15
+260	Osma	Osmanya	osmanais	Osmanya	4.0	2004-05-01
+261	Olck	Ol Chiki (Ol Cemet’, Ol, Santali)	ol tchiki	Ol_Chiki	5.1	2007-07-02
+262	Wara	Warang Citi (Varang Kshiti)	warang citi	Warang_Citi	7.0	2014-11-15
+263	Pauc	Pau Cin Hau	paou chin haou	Pau_Cin_Hau	7.0	2014-11-15
+264	Mroo	Mro, Mru	mro	Mro	7.0	2016-12-05
+265	Medf	Medefaidrin (Oberi Okaime, Oberi Ɔkaimɛ)	médéfaïdrine	Medefaidrin	11.0	2016-12-05
+274	Sunu	Sunuwar	sunuwar	Sunuwar	16.0	2021-12-03
+275	Tnsa	Tangsa	tangsa	Tangsa	14.0	2021-02-17
+280	Visp	Visible Speech	parole visible			2004-05-01
+281	Shaw	Shavian (Shaw)	shavien (Shaw)	Shavian	4.0	2004-05-01
+282	Plrd	Miao (Pollard)	miao (Pollard)	Miao	6.1	2012-02-06
+283	Wcho	Wancho	wantcho	Wancho	12.0	2017-07-26
+284	Jamo	Jamo (alias for Jamo subset of Hangul)	jamo (alias pour le sous-ensemble jamo du hangûl)		1.1	2016-01-19
+285	Bopo	Bopomofo	bopomofo	Bopomofo	1.1	2004-05-01
+286	Hang	Hangul (Hangŭl, Hangeul)	hangûl (hangŭl, hangeul)	Hangul	1.1	2004-05-29
+287	Kore	Korean (alias for Hangul + Han)	coréen (alias pour hangûl + han)		1.1	2007-06-13
+288	Kits	Khitan small script	petite écriture khitan	Khitan_Small_Script	13.0	2015-07-15
+290	Teng	Tengwar	tengwar			2004-05-01
+291	Cirt	Cirth	cirth			2004-05-01
+292	Sara	Sarati	sarati			2004-05-29
+293	Piqd	Klingon (KLI pIqaD)	klingon (pIqaD du KLI)			2015-12-16
+294	Toto	Toto	toto	Toto	14.0	2020-04-16
+295	Nagm	Nag Mundari	nag mundari	Nag_Mundari	15.0	2021-12-03
+296	Onao	Ol Onal	ol onal	Ol_Onal	16.0	2023-09-12
+298	Chis	Chisoi	chisoi			2023-09-12
+299	Tols	Tolong Siki	tolong siki			2023-09-12
+300	Brah	Brahmi	brahma	Brahmi	6.0	2010-07-23
+302	Sidd	Siddham, Siddhaṃ, Siddhamātṛkā	siddham	Siddham	7.0	2014-11-15
+303	Ranj	Ranjana	ranjana			2021-01-25
+305	Khar	Kharoshthi	kharochthî	Kharoshthi	4.1	2006-06-21
+310	Guru	Gurmukhi	gourmoukhî	Gurmukhi	1.1	2004-05-01
+311	Nand	Nandinagari	nandinâgarî	Nandinagari	12.0	2018-08-26
+312	Gong	Gunjala Gondi	gunjala gondî	Gunjala_Gondi	11.0	2016-12-05
+313	Gonm	Masaram Gondi	masaram gondî	Masaram_Gondi	10.0	2017-07-26
+314	Mahj	Mahajani	mahâjanî	Mahajani	7.0	2014-11-15
+315	Deva	Devanagari (Nagari)	dévanâgarî	Devanagari	1.1	2004-05-01
+316	Sylo	Syloti Nagri	sylotî nâgrî	Syloti_Nagri	4.1	2006-06-21
+317	Kthi	Kaithi	kaithî	Kaithi	5.2	2009-06-01
+318	Sind	Khudawadi, Sindhi	khoudawadî, sindhî	Khudawadi	7.0	2014-11-15
+319	Shrd	Sharada, Śāradā	charada, shard	Sharada	6.1	2012-02-06
+320	Gujr	Gujarati	goudjarâtî (gujrâtî)	Gujarati	1.1	2004-05-01
+321	Takr	Takri, Ṭākrī, Ṭāṅkrī	tâkrî	Takri	6.1	2012-02-06
+322	Khoj	Khojki	khojkî	Khojki	7.0	2014-11-15
+323	Mult	Multani	multanî	Multani	8.0	2015-07-07
+324	Modi	Modi, Moḍī	modî	Modi	7.0	2014-11-15
+325	Beng	Bengali (Bangla)	bengalî (bangla)	Bengali	1.1	2016-12-05
+326	Tirh	Tirhuta	tirhouta	Tirhuta	7.0	2014-11-15
+327	Orya	Oriya (Odia)	oriyâ (odia)	Oriya	1.1	2016-12-05
+328	Dogr	Dogra	dogra	Dogra	11.0	2016-12-05
+329	Soyo	Soyombo	soyombo	Soyombo	10.0	2017-07-26
+330	Tibt	Tibetan	tibétain	Tibetan	2.0	2004-05-01
+331	Phag	Phags-pa	’phags pa	Phags_Pa	5.0	2006-10-10
+332	Marc	Marchen	marchen	Marchen	9.0	2016-12-05
+333	Newa	Newa, Newar, Newari, Nepāla lipi	néwa, néwar, néwari, nepāla lipi	Newa	9.0	2016-12-05
+334	Bhks	Bhaiksuki	bhaïksukî	Bhaiksuki	9.0	2016-12-05
+335	Lepc	Lepcha (Róng)	lepcha (róng)	Lepcha	5.1	2007-07-02
+336	Limb	Limbu	limbou	Limbu	4.0	2004-05-29
+337	Mtei	Meitei Mayek (Meithei, Meetei)	meitei mayek	Meetei_Mayek	5.2	2009-06-01
+338	Ahom	Ahom, Tai Ahom	âhom	Ahom	8.0	2015-07-07
+339	Zanb	Zanabazar Square (Zanabazarin Dörböljin Useg, Xewtee Dörböljin Bicig, Horizontal Square Script)	zanabazar quadratique	Zanabazar_Square	10.0	2017-07-26
+340	Telu	Telugu	télougou	Telugu	1.1	2004-05-01
+341	Tutg	Tulu-Tigalari	tulu-tigalari	Tulu_Tigalari	16.0	2023-09-12
+342	Diak	Dives Akuru	dives akuru	Dives_Akuru	13.0	2019-08-19
+343	Gran	Grantha	grantha	Grantha	7.0	2014-11-15
+344	Saur	Saurashtra	saurachtra	Saurashtra	5.1	2007-07-02
+345	Knda	Kannada	kannara (canara)	Kannada	1.1	2004-05-29
+346	Taml	Tamil	tamoul	Tamil	1.1	2004-05-01
+347	Mlym	Malayalam	malayâlam	Malayalam	1.1	2004-05-01
+348	Sinh	Sinhala	singhalais	Sinhala	3.0	2004-05-01
+349	Cakm	Chakma	chakma	Chakma	6.1	2012-02-06
+350	Mymr	Myanmar (Burmese)	birman	Myanmar	3.0	2004-05-01
+351	Lana	Tai Tham (Lanna)	taï tham (lanna)	Tai_Tham	5.2	2009-06-01
+352	Thai	Thai	thaï	Thai	1.1	2004-05-01
+353	Tale	Tai Le	taï-le	Tai_Le	4.0	2004-10-25
+354	Talu	New Tai Lue	nouveau taï-lue	New_Tai_Lue	4.1	2006-06-21
+355	Khmr	Khmer	khmer	Khmer	3.0	2004-05-29
+356	Laoo	Lao	laotien	Lao	1.1	2004-05-01
+357	Kali	Kayah Li	kayah li	Kayah_Li	5.1	2007-07-02
+358	Cham	Cham	cham (čam, tcham)	Cham	5.1	2009-11-11
+359	Tavt	Tai Viet	taï viêt	Tai_Viet	5.2	2009-06-01
+360	Bali	Balinese	balinais	Balinese	5.0	2006-10-10
+361	Java	Javanese	javanais	Javanese	5.2	2009-06-01
+362	Sund	Sundanese	sundanais	Sundanese	5.1	2007-07-02
+363	Rjng	Rejang (Redjang, Kaganga)	redjang (kaganga)	Rejang	5.1	2009-02-23
+364	Leke	Leke	léké			2015-07-07
+365	Batk	Batak	batak	Batak	6.0	2010-07-23
+366	Maka	Makasar	makassar	Makasar	11.0	2016-12-05
+367	Bugi	Buginese	bouguis	Buginese	4.1	2006-06-21
+368	Kawi	Kawi	kawi	Kawi	15.0	2021-12-03
+370	Tglg	Tagalog (Baybayin, Alibata)	tagal (baybayin, alibata)	Tagalog	3.2	2009-02-23
+371	Hano	Hanunoo (Hanunóo)	hanounóo	Hanunoo	3.2	2004-05-29
+372	Buhd	Buhid	bouhide	Buhid	3.2	2004-05-01
+373	Tagb	Tagbanwa	tagbanoua	Tagbanwa	3.2	2004-05-01
+380	Tayo	Tai Yo	taï yo			2023-09-12
+396	Krai	Kirat Rai	kirat rai	Kirat_Rai	16.0	2023-09-12
+397	Gukh	Gurung Khema	gurung khema	Gurung_Khema	16.0	2023-09-12
+398	Sora	Sora Sompeng	sora sompeng	Sora_Sompeng	6.1	2012-02-06
+399	Lisu	Lisu (Fraser)	lisu (Fraser)	Lisu	5.2	2009-06-01
+400	Lina	Linear A	linéaire A	Linear_A	7.0	2014-11-15
+401	Linb	Linear B	linéaire B	Linear_B	4.0	2004-05-29
+402	Cpmn	Cypro-Minoan	syllabaire chypro-minoen	Cypro_Minoan	14.0	2017-07-26
+403	Cprt	Cypriot syllabary	syllabaire chypriote	Cypriot	4.0	2017-07-26
+410	Hira	Hiragana	hiragana	Hiragana	1.1	2004-05-01
+411	Kana	Katakana	katakana	Katakana	1.1	2004-05-01
+412	Hrkt	Japanese syllabaries (alias for Hiragana + Katakana)	syllabaires japonais (alias pour hiragana + katakana)	Katakana_Or_Hiragana	1.1	2011-06-21
+413	Jpan	Japanese (alias for Han + Hiragana + Katakana)	japonais (alias pour han + hiragana + katakana)		1.1	2006-06-21
+420	Nkgb	Naxi Geba (na²¹ɕi³³ gʌ²¹ba²¹, 'Na-'Khi ²Ggŏ-¹baw, Nakhi Geba)	naxi geba, nakhi geba			2017-07-26
+430	Ethi	Ethiopic (Geʻez)	éthiopien (geʻez, guèze)	Ethiopic	3.0	2004-10-25
+435	Bamu	Bamum	bamoum	Bamum	5.2	2009-06-01
+436	Kpel	Kpelle	kpèllé			2010-03-26
+437	Loma	Loma	loma			2010-03-26
+438	Mend	Mende Kikakui	mendé kikakui	Mende_Kikakui	7.0	2014-11-15
+439	Afak	Afaka	afaka			2010-12-21
+440	Cans	Unified Canadian Aboriginal Syllabics	syllabaire autochtone canadien unifié	Canadian_Aboriginal	3.0	2004-05-29
+445	Cher	Cherokee	tchérokî	Cherokee	3.0	2004-05-01
+450	Hmng	Pahawh Hmong	pahawh hmong	Pahawh_Hmong	7.0	2014-11-15
+451	Hmnp	Nyiakeng Puachue Hmong	nyiakeng puachue hmong	Nyiakeng_Puachue_Hmong	12.0	2017-07-26
+460	Yiii	Yi	yi	Yi	3.0	2004-05-01
+470	Vaii	Vai	vaï	Vai	5.1	2007-07-02
+480	Wole	Woleai	woléaï			2010-12-21
+499	Nshu	Nüshu	nüshu	Nushu	10.0	2017-07-26
+500	Hani	Han (Hanzi, Kanji, Hanja)	idéogrammes han (sinogrammes)	Han	1.1	2009-02-23
+501	Hans	Han (Simplified variant)	idéogrammes han (variante simplifiée)		1.1	2004-05-29
+502	Hant	Han (Traditional variant)	idéogrammes han (variante traditionnelle)		1.1	2004-05-29
+503	Hanb	Han with Bopomofo (alias for Han + Bopomofo)	han avec bopomofo (alias pour han + bopomofo)		1.1	2016-01-19
+504	Hntl	Han (Traditional variant) with Latin (alias for Hant + Latn)	han (variante traditionnelle) avec latin (alias pour Hant + Latn)			2025-04-24
+505	Kitl	Khitan large script	grande écriture khitan			2015-07-15
+510	Jurc	Jurchen	jurchen			2010-12-21
+520	Tang	Tangut	tangoute	Tangut	9.0	2016-12-05
+530	Shui	Shuishu	shuishu			2017-07-26
+550	Blis	Blissymbols	symboles Bliss			2004-05-01
+570	Brai	Braille	braille	Braille	3.0	2004-05-01
+590	Seal	(Small) Seal	sigillaire			2025-04-24
+610	Inds	Indus (Harappan)	indus			2004-05-01
+620	Roro	Rongorongo	rongorongo			2004-05-01
+755	Dupl	Duployan shorthand, Duployan stenography	sténographie Duployé	Duployan	7.0	2014-11-15
+900	Qaaa	Reserved for private use (start)	réservé à l’usage privé (début)			2004-05-29
+949	Qabx	Reserved for private use (end)	réservé à l’usage privé (fin)			2004-05-29
+993	Zsye	Symbols (Emoji variant)	symboles (variante émoji)		6.0	2015-12-16
+994	Zinh	Code for inherited script	codet pour écriture héritée	Inherited		2009-02-23
+995	Zmth	Mathematical notation	notation mathématique		3.2	2007-11-26
+996	Zsym	Symbols	symboles		1.1	2007-11-26
+997	Zxxx	Code for unwritten documents	codet pour les documents non écrits			2011-06-21
+998	Zyyy	Code for undetermined script	codet pour écriture indéterminée	Common		2004-05-29
+999	Zzzz	Code for uncoded script	codet pour écriture non codée	Unknown		2006-10-10
